@@ -1,4 +1,4 @@
-#Amazing web application sample with Vue.js + Vuetify + Python(django)
+# Amazing web application sample with Vue.js + Vuetify + Python(django)
 
 ## Running in Production
 
